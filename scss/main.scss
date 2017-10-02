@@ -1,7 +1,13 @@
-$deep-grey: #282c34;
-$white-text: rgba(255,255,255, .89);
+$Header-color: #50D8D7;
+$background-color: #474044
+
+h1 {
+  color:$Header-color;
+}
+
+
 
 body {
-  background-color: $deep-grey;
+  background-color: $background-color;
   color: $white-text;
 }
